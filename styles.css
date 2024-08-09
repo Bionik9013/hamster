@@ -145,7 +145,7 @@ select option {
     flex-grow: 1;
     border: none;
     background: transparent;
-    color: #e0b3ff;
+    color: #000000;
     font-size: 16px;
     overflow: hidden;
     text-overflow: ellipsis;
