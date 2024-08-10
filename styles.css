@@ -172,7 +172,7 @@ select option {
     padding: 10px 10px;
     border-radius: 4px;
     cursor: pointer;
-    color: white;
+    color: #000000;
     font-size: 14px;
     transition: background-color 0.3s, transform 0.3s, color 0.3s;
 }
